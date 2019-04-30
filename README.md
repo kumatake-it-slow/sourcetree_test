@@ -7,3 +7,5 @@ line5
 kine7
 
 topic-A
+
+topic-B
